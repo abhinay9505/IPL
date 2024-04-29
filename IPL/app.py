@@ -5,7 +5,7 @@ st.set_page_config(
     page_icon="🏏🏏",
 )
 st.snow()
-st.header("IPL_Nikhil_Elite13")
+st.header("IPL_Elite13")
 st.title("Analysis of IPL stats ")
 st.sidebar.success("Select a page above.")
 st.header("IPL Logo")
